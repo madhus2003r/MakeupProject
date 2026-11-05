@@ -1,0 +1,27 @@
+# Node
+node_modules/
+dist/
+
+# Java / Maven
+target/
+*.class
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+.settings/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
